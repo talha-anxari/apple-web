@@ -1,0 +1,58 @@
+11:24:52:812 2021.12.06 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Pro : Professional : 6.3 : 15063
+
+11:24:52:844 Loading SECOH-QAD...
+11:24:52:844 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+11:24:52:844 Using host Forward: 10.43.24.148:1688
+11:24:52:844 Using method: SECOH-QAD
+11:24:52:844 Using host Local: 127.125.191.59:1688
+11:24:52:960 Time Start: 12/6/2021 11:24:52 AM
+11:24:52:960 Checking Internet Connection...
+11:24:53:044 Internet Connection Detected
+11:24:53:044 Synchronizing Time...
+11:24:53:902 Time synchronized
+11:24:55:103 Windows Detected: Windows 10 Pro : Professional : 6.3 : 15063
+11:24:55:106 Using host Forward: 10.43.24.148:1688
+11:24:55:106 Using host Local: 127.125.191.59:1688
+11:24:55:106 Using method: SECOH-QAD
+11:24:55:486 Opening Firewall Port...
+11:24:55:699 Opening Firewall App...
+11:24:55:902 KMSEmulator Port: 1688
+11:24:55:903 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+11:24:55:931 KMSEmulator running port: 1688
+11:24:59:096 Office 2016 Skipped
+11:24:59:097 Office 2013 Skipped
+11:24:59:098 Office 2010 Skipped
+11:24:59:377 Found Windows Products: 1
+11:24:59:380 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 259198
+LicenseStatus: 1
+PartialProductKey: T83GX
+GenuineStatus: 0
+
+11:25:00:126 DisableKeyManagementServiceHostCaching 0
+11:25:00:134 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+11:25:00:144 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+11:25:03:370 Activating Windows
+11:25:04:313 SetKeyManagementServiceMachine: 0: 10.43.24.148
+11:25:04:357 SetKeyManagementServicePort: 0: 1688
+11:25:04:822 Connection accepted from [::ffff:127.0.0.1]:50568
+11:25:04:868 Received request: v6, AppID: 55c92734-d682-4d71-983e-d6ec3f16059f, Machine: DESKTOP-T4O9DBK
+11:25:04:891 Sending response: v6, PID: 06401-00168-339-907624-03-1033-9600.0000-2692016, HwID: 83B7DFEDB7A66274
+11:25:04:897 Connection closed
+11:25:06:088 Windows(R), Professional edition Activated 0
+11:25:06:091 Set Registry : HKEY_USERS\S-1-5-20\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\2de67392-b7a7-462a-b1ca-108dd189f588:DiscoveredKeyManagementServiceIpAddress
+11:25:06:679 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+11:25:06:684 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+11:25:06:703 ClearKeyManagementServiceMachine 0
+11:25:06:718 ClearKeyManagementServicePort 0
+11:25:06:726 Closing Firewall Port...
+11:25:06:848 Closing Firewall App...
+11:25:07:018 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+11:25:09:328 Unloading SECOH-QAD...
+11:25:09:333 Del Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe:
+11:25:09:341 Client listener shut down
